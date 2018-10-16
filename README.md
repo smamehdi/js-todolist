@@ -1,10 +1,6 @@
 # JS To-Do List
 A To-do list app running on JavaScript.
 
-## Links
-- [App](http://nmacawile.github.io/to-do-list)
-- [Project page](https://www.theodinproject.com/courses/javascript/lessons/todo-list)
-
 ## Features
 - Create and delete lists
 - Create and delete tasks
